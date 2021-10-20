@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AAs\AAs\bin\Debug\AAs.exe.config
+C:\Users\user\source\repos\AAs\AAs\bin\Debug\AAs.exe
+C:\Users\user\source\repos\AAs\AAs\bin\Debug\AAs.pdb
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.Form1.resources
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.Properties.Resources.resources
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.exe
+C:\Users\user\source\repos\AAs\AAs\obj\Debug\AAs.pdb
